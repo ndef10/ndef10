@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nilda Defranchi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+<img src="https://as1.ftcdn.net/v2/jpg/06/20/77/92/1000_F_620779254_fePxfxat7Xu5FTwvNrd4j7L4ToDgAKlF.jpg">
+
 - 🔭 I’m currently working on [portafolio](https://portafoliondef.netlify.app/)
 
 - 🌱 I’m currently learning **React**
