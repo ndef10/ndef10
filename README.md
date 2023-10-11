@@ -8,7 +8,7 @@
 - 🌱 También estoy aprendiendo react
 - 📫 Cómo contactarme: ndefranchim@gmail.com
 
-##Habilidades
+## Habilidades
 
 - JS
 - HTML
