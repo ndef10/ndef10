@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilda Defranchi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-![]([https://imc.uc.cl/images/noticias/machine_learning.jpg](https://as2.ftcdn.net/v2/jpg/02/66/18/03/1000_F_266180394_lFKeZa8xgxcXDYYaHtUZnv5qnvUUjnLL.jpg))
+![](https://as2.ftcdn.net/v2/jpg/02/66/18/03/1000_F_266180394_lFKeZa8xgxcXDYYaHtUZnv5qnvUUjnLL.jpg)
 
 - 🔭 I’m currently working on [portafolio](https://portafoliondef.netlify.app/)
 
