@@ -3,17 +3,15 @@
 </div>
 <img src="https://raw.githubusercontent.com/ndef10/portafolio/blob/master/assets/logos/milogo.png">
 ## Sobre mi
-
 - 🔭 Actualmente me encuentro trabajando en mi portafolio
 - 🌱 También estoy aprendiendo react
 - 📫 Cómo contactarme: ndefranchim@gmail.com
 
-##Habilidades: 
+##Habilidades
 - JS
 - HTML
 - CSS
 - HANDLEBARS.JS 
 - POSTGRESQL
-
 
 
