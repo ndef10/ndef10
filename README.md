@@ -3,11 +3,11 @@
 
 ![](https://www.cepal.org/sites/default/files/styles/1280x720/public/images/featured/19_1.jpg?itok=6eudKe6A)
 
-- 🔭 I’m currently working on [portafolio](https://portafoliondef.netlify.app/)
+- 🔭 I’m currently working on [portafolio](https://nildadefranchi.com)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portafoliondef.netlify.app/](https://portafoliondef.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portafolio](https://nildadefranchi.com)
 
 - 💬 Ask me about **HTML, CSS, Javascript, PostgreSQL**
 
