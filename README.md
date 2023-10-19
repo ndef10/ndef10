@@ -3,7 +3,7 @@
 
 ![](https://www.cepal.org/sites/default/files/styles/1280x720/public/images/featured/19_1.jpg?itok=6eudKe6A)
 
-- 🔭 I’m currently working on [portafolio](https://nildadefranchi.com)
+- 🔭 I’m currently working on [Portafolio](https://nildadefranchi.com)
 
 - 🌱 I’m currently learning **React**
 
