@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilda Defranchi</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">Frontend developer with Backend knowledge</h3>
 
 ![](https://www.cepal.org/sites/default/files/styles/1280x720/public/images/featured/19_1.jpg?itok=6eudKe6A)
 
-- 🔭 I’m currently working on [Portafolio](https://nildadefranchi.com)
+- 🔭 I currently work independently at Defwar Technology developing websites.
 
 - 🌱 I’m currently learning **React**
 
