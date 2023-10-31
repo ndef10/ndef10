@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Portafolio](https://nildadefranchi.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nildadefranchi.com)
 
 - 💬 Ask me about **HTML, CSS, Javascript, PostgreSQL**
 
