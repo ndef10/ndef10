@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilda Defranchi</h1>
-<h3 align="center">Frontend developer with Backend knowledge</h3>
+<h3 align="center">Software Developer</h3>
 
 ![](https://www.cepal.org/sites/default/files/styles/1280x720/public/images/featured/19_1.jpg?itok=6eudKe6A)
 
