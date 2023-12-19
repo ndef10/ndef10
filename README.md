@@ -5,7 +5,7 @@
 
 - 🔭 I currently work independently at Defwar Technology developing websites.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I'm learning to react **React**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nildadefranchi.com)
 
